@@ -1,0 +1,7 @@
+.user-item {
+  background-color: whitesmoke;
+  border: 1px solid grey;
+  border-radius: 2px;
+  line-height: 2.5rem;
+  padding: 0 10px;
+}
